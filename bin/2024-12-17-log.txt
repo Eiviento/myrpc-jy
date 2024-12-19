@@ -1,0 +1,6 @@
+13:40:50 =>[info] /home/fdl/桌面/myrpc/example/callee/friendservice.cc:main:44
+13:40:50 =>[info] ddddd
+13:40:50 =>[info] method_name:GetFriendsList
+13:50:22 =>[info] /home/fdl/桌面/myrpc/example/callee/friendservice.cc:main:44
+13:50:22 =>[info] ddddd
+13:50:22 =>[info] method_name:GetFriendsList
